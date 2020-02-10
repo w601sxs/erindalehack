@@ -22,7 +22,7 @@ Lack of data - with more data, we could have thought of using more complicated M
 Since this is written in python, it can also be easily converted to a Flask web app, that shows this interactive visulalization online. To do this using DigitalOcean, follow this tutorial https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04
 
 
-![DigitalOcean with Flask](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcontent.nanobox.io%2Fhow-to-deploy-flask-applications-to-digitalocean-using-nanobox%2F&psig=AOvVaw1P5o_ZgdCS0kLo9mYCY98W&ust=1581394446176000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDx1ciPxucCFQAAAAAdAAAAABAD)
+![DigitalOcean with Flask](https://content.nanobox.io/content/images/2017/09/flask-digitalocean-banner.png)
 
 ## What I learned
 This data can be used to create time-series representation of changes in temperature, humidity, noise and wifi although we did not use the time column here. With more data, we could also find the relationship between these variables, and come up with a better composite score.  
